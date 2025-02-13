@@ -1,5 +1,3 @@
-
-
 # Inspect the data
 summary(eco_prj)
 str(eco_prj)
